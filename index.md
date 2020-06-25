@@ -1,9 +1,5 @@
-Hello, world!
+Hello, my friend! Welcome to Liqin Huang's blog.
 
-Hello and welcome to this blog. Edit the `index.md` file to change this content. All pages on the blog, including this one, use [Markdown](https://guides.github.com/features/mastering-markdown/). You can include images:
+This blog is named Liqin Huang's road to physics, and I will use it to note down the paces I take to the real physics in my mind.
 
-![Image of fast.ai logo](images/logo.png)
-
-## This is a title
-
-And you can include links, like this [link to fast.ai](https://www.fast.ai). Posts will appear after this file. 
+I became genuinely interested in physics when I was 10.
